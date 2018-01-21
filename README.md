@@ -1,3 +1,5 @@
 # circle-maker
 
-d3.js v4.12.2
+D3.js v4.12.2  
+
+https://jagpotato.github.io/circle-maker/
