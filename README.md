@@ -1,6 +1,6 @@
 # circle-maker
 
-D3.jsを使って，クリックで円を出現させるデモ  
+D3.jsを使って，マウスクリックで円を生成するデモ  
 
 URL: https://jagpotato.github.io/circle-maker/
 
